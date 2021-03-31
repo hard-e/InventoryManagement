@@ -1,0 +1,11 @@
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\bin\Debug\c968.exe.config
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\bin\Debug\c968.exe
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\bin\Debug\c968.pdb
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\c968.MainScreen.resources
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\c968.PartScreen.resources
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\c968.ProductScreen.resources
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\c968.Properties.Resources.resources
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\AdamWest_c968.csproj.GenerateResource.cache
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\AdamWest_c968.csproj.CoreCompileInputs.cache
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\c968.exe
+C:\Users\admws\OneDrive\Documents\Coding\C#\c968\obj\Debug\c968.pdb
