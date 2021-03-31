@@ -1,0 +1,10 @@
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\bin\Debug\Adam West - InventorySystem.exe.config
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\bin\Debug\Adam West - InventorySystem.exe
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\bin\Debug\Adam West - InventorySystem.pdb
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam West - InventorySystem.csprojAssemblyReference.cache
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam_West___InventorySystem.MainScreen.resources
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam_West___InventorySystem.Properties.Resources.resources
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam West - InventorySystem.csproj.GenerateResource.cache
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam West - InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam West - InventorySystem.exe
+C:\Users\admws\OneDrive\Documents\Coding\C#\Adam West - InventorySystem\obj\Debug\Adam West - InventorySystem.pdb
